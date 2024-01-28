@@ -1,0 +1,20 @@
+repo_name: Enochthedev/zero_day
+report_id: cdbc2c6453cf682428f087e3aa41cc75
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-28T08:06:02+00:00'
+requested_by: Enochthedev
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Enochthedev/zero_day
+  detection_source: Repo Metadata
